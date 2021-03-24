@@ -1,0 +1,73 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.apple-pie-heading {
+    margin: auto;
+    width: 50%;
+   /* width: 1000px;
+    height: 500px;*/
+    font-size: 30px;
+    color: oldlace;
+    text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    background-image: url('../images/apple-pie.jpg');
+    background-size: 1000px 500px;
+    line-height: 400px;
+
+}
+.intro-text{
+    margin: auto;
+    margin-top: 20px;
+    width: 35%;
+    text-align: center;
+    margin-bottom: 20px;
+
+    
+}
+.separetor{
+    border-bottom: solid;
+    width: 50%;
+    margin:0 auto;
+    text-align: center;
+}
+
+.ingredients{
+    margin: auto;
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+}
+.separetor{
+    border-bottom: solid;
+    width: 50%;
+    margin:0 auto;
+    text-align: center;
+}
+.recipe-info{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    
+    
+}
+.ingredient-list{
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.direction{
+    margin: auto;
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+}
+.direction-list{
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    text-align: left;
+    margin-bottom: 20px;
+}
